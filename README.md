@@ -30,7 +30,7 @@
 <li>Database Integration: Uses MongoDB to store and manage financial data securely.</li>
 </ul><h2>Setup</h2>
 <hr><p>The project requirements and dependencies for the "Money Tracker WebApp" include technologies like Node.js, MongoDB, and frontend tools such as HTML and CSS. Specific dependencies like express (for server routing) and mongoose (for MongoDB integration) are likely listed in the package.json file, which is typically found in the root of the repository.</p><h5>Steps</h5><ul>
-<li>git clone https://github.com/vedant-35/Money-Tracker-WebApp</li>
+<li>git clone https://github.com/EshwariR13/Money-Tracker-WebApp</li>
 </ul><ul>
 <li>cd Money-Tracker-WebApp</li>
 </ul><ul>
@@ -38,4 +38,4 @@
 </ul><ul>
 <li>npm start</li>
 </ul><h2>Contact</h2>
-<hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/vedant-rajendra-balpande-711714283/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/vedant-35"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
+<hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/vedant-rajendra-balpande-711714283/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
